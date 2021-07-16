@@ -1,4 +1,4 @@
-//Presentación tp3  ojala sea suficiente - Mercedes Amiel
+
 //https://youtu.be/a6ogjlU46VY
 
 int i;
@@ -85,6 +85,6 @@ x--;
 }
 if ((mouseX>180) && (mouseY>0) && (mouseX<230) && (mouseY<40)){
 
-
+//I.O: mov. dif. de los rectangulos
 }
 }
