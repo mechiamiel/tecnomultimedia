@@ -12,7 +12,7 @@ class autos{
   autos (){
      x= 100;
   y= random(150,400);
-  vel=random (5,12);
+  vel=random (5,15);
   auto1 = loadImage("a"+int(random(2))+".png");
 println (x);
   }
@@ -39,7 +39,7 @@ println (x);
   void reciclar2(){
    x= 100;
   y= random(150,400);
-  vel=random (5,12);
+  vel=random (5,15);
   auto1 = loadImage("a"+int(random(2))+".png");
   }
   
