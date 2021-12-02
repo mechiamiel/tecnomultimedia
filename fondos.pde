@@ -51,7 +51,7 @@ class fondos { //falta cargar el juego
     popStyle();
   }
 
-  void textoind ( String aa, int x, int y, PFont fuente2) { //se pueden llamar ambas texto
+  void textoind ( String aa, int x, int y, PFont fuente2) { //se pueden llamar ambas void texto y utilizar ambas con sus dif. parametros
     pushStyle();
     textSize(12);
     textFont(fuente2);
